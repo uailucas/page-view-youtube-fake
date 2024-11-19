@@ -3,6 +3,8 @@
 Este é um projeto **demonstrativo** que replica a tela de visualização de vídeos do YouTube, com **funcionalidades limitadas**. O objetivo principal é oferecer um **modelo visual** semelhante ao do YouTube, enquanto permite a simulação de interações básicas, como a exibição de **comentários falsos**.
 
 ---
+![gif-fim](https://github.com/user-attachments/assets/90b9c99b-0e8b-4695-9f38-87a576c4b5fa)
+
 
 ## 🚀 Funcionalidades
 
